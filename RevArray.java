@@ -1,7 +1,7 @@
 public class RevArray{
   
   public static void main(String[] args){
-    String[] strArray = {"H","e","l","l","o"};
+    String[] s = {"H","e","l","l","o"};
     
   }
 
